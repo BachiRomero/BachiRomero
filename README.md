@@ -50,8 +50,22 @@ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia en l
 •	HTML
 
 
-            
-Si quieres contactarme e iniciar proyectos que nos permita contribuir en esta hermosa comunidad puedes hacerlo de la siguiente manera
+## ✍️ Proyecto final Henry
+
+He participado con mucho orgullo del proyecto final del Bootcamp de Henry donde junto a mis compañeros de equipo hemos creado una SPA de un e-commerce dedicada a la venta de pinturas y herramientas relacionadas al rubro para una empresa de la localidad de Anisacate, Provincia de Cordoba. Argentina.
+Dicho proyecto a sido calificado para presentar en la jornada de graduación. 
+
+A Continuacion les dejo el link del repositorio y video de presentación.
+
+[Repositorio](https://github.com/PF-Ide-Pintureria)
+
+[Video de presentación](https://www.youtube.com/watch?v=BlPkojy671Q)
+
+
+
+## 📧 Contacto
+
+Si quieres contactarme e iniciar proyectos que nos permita contribuir a esta hermosa comunidad puedes hacerlo de la siguiente manera:
 
 Correo: romerobasilio@hotmail.com.ar
 
