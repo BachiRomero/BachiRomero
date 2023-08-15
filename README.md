@@ -1,16 +1,60 @@
-### Hi there 👋
+## Hola. Mi nombre es Basilio Carlos Romero Rojas 👋
 
-<!--
-**BachiRomero/BachiRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😊 ¿Quién soy?
 
-Here are some ideas to get you started:
+soy un programador Full Stack graduado de Henry con orientación Back-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Si bien siempre fui un apasionado de la computación y la programación desde muy chico, no hace mucho que me inserté de manera profesional. Pero desde que lo hice me siento con mucha motivación para poder aportar mi granito de arena en este maravilloso mundo del código. 
+
+
+
+
+## 🔭 ¿Qué hago?
+  
+Actualmente estoy trabajando en proyectos que me den la experiencia y el rodaje necesarios para avanzar en mi formación como programador. Me apasiona la idea de encontrar soluciones a distintas problemáticas con código. 
+
+
+
+## 👯 ¿A dónde me dirijo?
+ 
+Mi objetivo principal es insertarme en el mundo de la programación de manera profesional.
+Creo haber encontrado mi lugar en el mundo, y es trabajando con código.
+
+
+
+## 🖥️ Qué tecnologías uso?
+  
+El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia en las siguientes tecnologías:
+•	Javascript
+
+•	Node.js
+
+•	Express
+
+•	PostgreSQL
+
+•	ElephantSQL
+
+•	Sequelize
+
+•	GIT
+
+•	Multer
+
+•	JWT
+
+•	React.js
+
+•	CSS
+
+•	HTML
+
+
+            
+Si quieres contactarme e iniciar proyectos que nos permita contribuir en esta hermosa comunidad puedes hacerlo de la siguiente manera
+
+Correo: romerobasilio@hotmail.com.ar
+
+[LinkedIn](www.linkedin.com/in/basilio-carlos-romero-rojas-97a05ab1)
+
+  
